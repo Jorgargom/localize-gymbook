@@ -1,0 +1,44 @@
+Aquí está GymBook, su aplicación de fitness para crear, registrar y analizar eficientemente sus entrenamientos en el gimnasio - todo en una hermosa e innovadora interfaz de usuario.
+
+GESTIONE SUS ENTRENAMIENTOS
+- Cree su entrenamiento con sus propios ejercicios o elija entre los 50 ejercicios sencillos con imágenes animadas y visualizaciones del grupo muscular primario y secundario afectado
+- Agrupa y clasifica tus ejercicios dentro de un entrenamiento
+- Defina las series, el peso y las repeticiones que desea realizar para cada ejercicio
+- Defina diferentes ajustes para sus series de un ejercicio (por ejemplo, para las series de calentamiento o el entrenamiento piramidal)
+- Archivar los entrenamientos que no utilices activamente y conservarlos para las estadísticas o para su uso posterior
+
+GESTIONAR TUS EJERCICIOS
+- Editar los ejercicios precargados
+- Cree sus propios ejercicios (también admite ejercicios de cardio)
+- Asigna una región, un grupo muscular primario y secundario y escribe notas para tus ejercicios
+
+¡ENTRENAMIENTO!
+- Registro y seguimiento rápido de su entrenamiento
+- Registra tu entrenamiento en tu muñeca con GymBook para Apple Watch
+- Amplía tus registros con notas para añadir información adicional
+- Vea inmediatamente cómo lo hizo la última vez
+- Utiliza las vistas del selector precargadas para un registro rápido y Quick-Log para un registro súper rápido
+- Accede rápidamente a los registros desde un entrenamiento, incluyendo las estadísticas gráficas
+- Cambia la fecha del entrenamiento (si quieres registrar entrenamientos anteriores)
+- Ver inmediatamente las estadísticas de tus ejercicios en un gráfico de líneas configurable e interactivo 
+- Pasar automáticamente al siguiente ejercicio de su entrenamiento después de guardar un registro (configurable)
+- La pantalla de entrenamiento muestra inmediatamente un resumen detallado sobre el entrenamiento de hoy
+- La innovadora "Workout Matrix" te ofrece siempre una visión detallada de tu entrenamiento actual
+- Una barra de progreso te permite conocer siempre el progreso general de tu entrenamiento
+- Después de completar un entrenamiento, un resumen muestra tu rendimiento y te permite analizar tu progreso en comparación con la última vez
+- Los entrenamientos completados se guardan en la aplicación Salud (con fecha, hora de inicio, hora de finalización, duración y nombre)
+
+MÁS...
+- Cronometra tus descansos con el temporizador ajustable que también funciona cuando pones tu iPhone en reposo o cierras la aplicación: puedes configurar la duración del temporizador que prefieras, tener un temporizador principal y otro secundario, así como un temporizador específico para cada ejercicio, elegir entre un temporizador clásico o uno gráfico, tener diferentes sonidos de temporizador y mucho más
+- Reciba un análisis detallado de su rendimiento gracias a los gráficos lineales y/o circulares interactivos
+- Exporte sus registros como archivo XML y CSV y exporte una copia de seguridad como archivo de base de datos
+- Registre su peso corporal, calcule su IMC y analícelo en un gráfico de líneas interactivo
+- Cambie la apariencia de GymBook y elija uno de los 7 magníficos diseños
+
+*Algunas funciones especiales pueden adquirirse mediante compras desde la aplicación.
+
+SOPORTE: GymBook es compatible con el sistema métrico (kilogramos, metros) e imperial (libras, pies).
+
+NOTA: GymBook ha sido desarrollado por expertos en gimnasia, para expertos en gimnasia. Por lo tanto, se centra en SUS entrenamientos y sólo proporciona entrenamientos de ejemplo para una mejor orientación.
+
+AGRADECIMIENTOS: Muchas gracias a Everkinetic (http://everkinetic.com) de donde obtuvimos algunas de las imágenes de los ejercicios e inspiración para las demás (el enriquecimiento de las imágenes por el grupo muscular afectado no forma parte del material proporcionado por Everkinetic).
